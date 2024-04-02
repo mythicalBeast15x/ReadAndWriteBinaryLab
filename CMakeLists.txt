@@ -3,7 +3,7 @@ project(ReadAndWriteBinaryLab C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(ReadAndWriteBinaryLab main.c
+add_executable(ReadAndWriteBinaryLab
         binaryFile.h
         binaryFile.h
         readAndWriteBinary.c)

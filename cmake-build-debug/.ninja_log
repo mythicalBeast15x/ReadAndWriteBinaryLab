@@ -1,6 +1,6 @@
 # ninja log v5
-10	334	7337867705059679	CMakeFiles/ReadAndWriteBinaryLab.dir/readAndWriteBinary.c.obj	a261a23203f5cfc9
-1	344	7337867705331649	CMakeFiles/ReadAndWriteBinaryLab.dir/main.c.obj	41c5c057613ca77b
 14	375	7337874413107581	CMakeFiles/ReadAndWriteBinaryLab.dir/readAndWriteBinary.c.obj	a261a23203f5cfc9
-5	236	7337874517705131	CMakeFiles/ReadAndWriteBinaryLab.dir/main.c.obj	41c5c057613ca77b
 238	485	7337874520127692	ReadAndWriteBinaryLab.exe	980a39bace420b3c
+5	236	7337874517705131	CMakeFiles/ReadAndWriteBinaryLab.dir/main.c.obj	41c5c057613ca77b
+2	548	7337922031046812	build.ninja	aea20bc2c644727d
+4	223	7337922036048684	ReadAndWriteBinaryLab.exe	e3e179080d537680
